@@ -1,0 +1,28 @@
+{
+  "name": "docxtemplater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-mostafa/docxTemplater.git"
+  },
+  "keywords": [
+    "docs",
+    "nodejs",
+    "templater"
+  ],
+  "author": "islam mostafa - islam.mostafa.fahmey@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i-mostafa/docxTemplater/issues"
+  },
+  "homepage": "https://github.com/i-mostafa/docxTemplater#readme",
+  "dependencies": {
+    "docx-templates": "^4.7.0",
+    "node-xlsx": "^0.17.1"
+  }
+}
